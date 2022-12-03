@@ -5,4 +5,9 @@
   color: #2f80ed;
   margin: 0;
   text-decoration: none;
+  transition: opacity .2s linear;
+}
+
+.header__link:hover {
+  opacity: .5;
 }
